@@ -1,2 +1,2 @@
 # Lazy-Ant
-A basic php web shell template to execute powershell.
+A basic PHP web shell template to execute PowerShell code.
